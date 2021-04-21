@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">GitHub User </string>
+    <string name="username">Username</string>
+    <string name="company">Company</string>
+    <string name="nama">Nama</string>
+    <string name="folower">Folower</string>
+    <string name="following">Following</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tab_text1">Followers</string>
+    <string name="tab_text2">Following</string>
+    <string name="favorite">Favorite</string>
+    <string name="setting">Setting</string>
+    <string name="reminder_at_9_00_am">Reminder at 9:00 AM</string>
+    <string name="key_notif">alarm</string>
+    <string name="alarm_enabled">Alarm has been enabled</string>
+    <string name="alarm_canceled">Alarm has been canceled</string>
+    <string name="lets_find_user_popular">Lets find user popular on github</string>
+</resources>

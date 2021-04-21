@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <SwitchPreference
+        android:key="switch"
+        android:summaryOff="Switch off"
+        android:summaryOn="Switch on"
+        android:title="@string/reminder_at_9_00_am"
+        android:icon="@drawable/ic_baseline_notifications_24"/>
+
+</PreferenceScreen>
