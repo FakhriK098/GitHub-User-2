@@ -7,7 +7,7 @@ GitHub User is application that show you the user of GitHub. The data gets using
 - I use LoopJ to parshing JSON. I use that to get data from GitHub using GitHub API
 - I use SearchView to make user can search the user from the username
 - I use Alarm Notification to make alarm for the user. The alarm is automactilly set the clock at 09.00 am. So when the time is in, the application will show the notification
-- I use SQL lite for save the user favorite. the user GitHub will save when the user tap on image of love in Detail Page
+- I use SQLite for save the user favorite. the user GitHub will save when the user tap on image of love in Detail Page
 
 ## The Screenshot
 - The main page
